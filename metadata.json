@@ -1,0 +1,6 @@
+{
+  "name": "Ágora-Lab: Simulador DGETI Neuro-Adaptativo",
+  "description": "Simulador de Laboratorio de Ciencias (Física y Química) con IA Pedagógica Offline y Neuro-Adaptativa bajo lineamientos MCCEMS y DUA/UDL para planteles DGETI/CBTis/CETis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
